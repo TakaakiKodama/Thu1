@@ -1,0 +1,4 @@
+plt.title("Fig.")
+plt.xlabel("")
+plt.ylabel("")
+plt.savefig("fig/f.png", dpi=300)
